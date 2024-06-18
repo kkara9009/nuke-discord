@@ -425,7 +425,7 @@ ascii = """
 
                               
 
-MADE BY dragon.py  
+MADE BY Dragon
 
 
 
