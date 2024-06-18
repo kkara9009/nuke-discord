@@ -1,4 +1,4 @@
-git clone https://github.com/kkara9009/nuke-discord.git
+git clone https://github.com/kkara9009/unixx-nuke.git
 
 cd nuke-discord
 
